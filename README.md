@@ -1,7 +1,7 @@
 # env
 # Создаем папку и заходим в нее
 
-# Создаем файл
+# Создаем файл с зависимостями
 touch requirements.txt
 # Открываем в nano
 nano requirements.txt
@@ -13,7 +13,9 @@ notebook
 
 Ctrl+O, Enter, Ctrl+X
 
-```python3 -m venv .venv```
+```bash
+python3 -m venv .venv
+```
 
 ```source .venv/bin/activate```
 
