@@ -6,9 +6,11 @@ touch requirements.txt
 # Открываем в nano
 nano requirements.txt
 
-```numpy
+```
+numpy
 pandas
-notebook```
+notebook
+```
 
 Ctrl+O, Enter, Ctrl+X
 
