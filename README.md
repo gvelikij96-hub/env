@@ -39,3 +39,6 @@ pip install --upgrade pip
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+jupyter notebook
+```
