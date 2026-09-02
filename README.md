@@ -16,9 +16,9 @@ Ctrl+O, Enter, Ctrl+X
 
 ```source .venv/bin/activate```
 
-```pip install -r requirements.txt```
-
 ```conda deactivate```
+
+```pip install -r requirements.txt```
 
 ```source .venv/bin/activate```
 
