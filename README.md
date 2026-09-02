@@ -15,6 +15,7 @@ nano requirements.txt
 numpy
 pandas
 notebook
+ipykernel
 ```
 `Ctrl+O`, `Enter`, `Ctrl+X`
 
